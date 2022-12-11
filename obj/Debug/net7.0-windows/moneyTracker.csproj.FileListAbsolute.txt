@@ -1,0 +1,15 @@
+D:\source\repos\moneyTracker\bin\Debug\net7.0-windows\moneyTracker.exe
+D:\source\repos\moneyTracker\bin\Debug\net7.0-windows\moneyTracker.deps.json
+D:\source\repos\moneyTracker\bin\Debug\net7.0-windows\moneyTracker.runtimeconfig.json
+D:\source\repos\moneyTracker\bin\Debug\net7.0-windows\moneyTracker.dll
+D:\source\repos\moneyTracker\bin\Debug\net7.0-windows\moneyTracker.pdb
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\moneyTracker.csproj.AssemblyReference.cache
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\moneyTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\moneyTracker.AssemblyInfoInputs.cache
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\moneyTracker.AssemblyInfo.cs
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\moneyTracker.csproj.CoreCompileInputs.cache
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\moneyTracker.dll
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\refint\moneyTracker.dll
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\moneyTracker.pdb
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\moneyTracker.genruntimeconfig.cache
+D:\source\repos\moneyTracker\obj\Debug\net7.0-windows\ref\moneyTracker.dll
