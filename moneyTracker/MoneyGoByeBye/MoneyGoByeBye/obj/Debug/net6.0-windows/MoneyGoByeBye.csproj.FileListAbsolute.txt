@@ -1,0 +1,17 @@
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\bin\Debug\net6.0-windows\MoneyGoByeBye.exe
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\bin\Debug\net6.0-windows\MoneyGoByeBye.deps.json
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\bin\Debug\net6.0-windows\MoneyGoByeBye.runtimeconfig.json
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\bin\Debug\net6.0-windows\MoneyGoByeBye.dll
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\bin\Debug\net6.0-windows\MoneyGoByeBye.pdb
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.csproj.AssemblyReference.cache
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.Form1.resources
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.csproj.GenerateResource.cache
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.AssemblyInfoInputs.cache
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.AssemblyInfo.cs
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.csproj.CoreCompileInputs.cache
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.dll
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\refint\MoneyGoByeBye.dll
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.pdb
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\MoneyGoByeBye.genruntimeconfig.cache
+D:\source\repos\moneyTracker\moneyTracker\MoneyGoByeBye\MoneyGoByeBye\obj\Debug\net6.0-windows\ref\MoneyGoByeBye.dll
