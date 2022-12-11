@@ -1,0 +1,15 @@
+D:\source\repos\moneyTracker\form2\bin\Debug\net7.0-windows\form2.exe
+D:\source\repos\moneyTracker\form2\bin\Debug\net7.0-windows\form2.deps.json
+D:\source\repos\moneyTracker\form2\bin\Debug\net7.0-windows\form2.runtimeconfig.json
+D:\source\repos\moneyTracker\form2\bin\Debug\net7.0-windows\form2.dll
+D:\source\repos\moneyTracker\form2\bin\Debug\net7.0-windows\form2.pdb
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\form2.csproj.AssemblyReference.cache
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\form2.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\form2.AssemblyInfoInputs.cache
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\form2.AssemblyInfo.cs
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\form2.csproj.CoreCompileInputs.cache
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\form2.dll
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\refint\form2.dll
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\form2.pdb
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\form2.genruntimeconfig.cache
+D:\source\repos\moneyTracker\form2\obj\Debug\net7.0-windows\ref\form2.dll
