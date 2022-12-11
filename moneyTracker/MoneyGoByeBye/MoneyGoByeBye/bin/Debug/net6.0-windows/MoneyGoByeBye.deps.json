@@ -7,8 +7,196 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "MoneyGoByeBye/1.0.0": {
+        "dependencies": {
+          "Ccr.PresentationCore": "4.0.0",
+          "LiveCharts.WinForms": "0.9.7.1",
+          "PresentationFramework": "4.6.0",
+          "Syncfusion.Maui.Charts": "20.3.60"
+        },
         "runtime": {
           "MoneyGoByeBye.dll": {}
+        }
+      },
+      "Ccr.PresentationCore/4.0.0": {
+        "dependencies": {
+          "Ccr.Std.Core": "2.2.0",
+          "Ccr.Std.Introspective": "2.0.0",
+          "Ccr.WinCore": "4.0.0",
+          "JetBrains.Annotations": "2019.1.3",
+          "Microsoft.WindowsAPICodePack.Shell": "1.1.0"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Ccr.PresentationCore.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Ccr.Std.Core/2.2.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2019.1.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ccr.Std.Core.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "Ccr.Std.Introspective/2.0.0": {
+        "dependencies": {
+          "Ccr.Std.Core": "2.2.0",
+          "JetBrains.Annotations": "2019.1.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ccr.Std.Introspective.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Ccr.WinCore/4.0.0": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Ccr.WinCore.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2019.1.3": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2019.1.3.0",
+            "fileVersion": "2019.1.3.0"
+          }
+        }
+      },
+      "LiveCharts/0.9.7": {
+        "runtime": {
+          "lib/net45/LiveCharts.dll": {
+            "assemblyVersion": "0.9.7.0",
+            "fileVersion": "0.9.7.0"
+          }
+        }
+      },
+      "LiveCharts.WinForms/0.9.7.1": {
+        "dependencies": {
+          "LiveCharts": "0.9.7",
+          "LiveCharts.Wpf": "0.9.7"
+        },
+        "runtime": {
+          "lib/net45/LiveCharts.WinForms.dll": {
+            "assemblyVersion": "0.9.7.1",
+            "fileVersion": "0.9.7.1"
+          }
+        }
+      },
+      "LiveCharts.Wpf/0.9.7": {
+        "dependencies": {
+          "LiveCharts": "0.9.7"
+        },
+        "runtime": {
+          "lib/net45/LiveCharts.Wpf.dll": {
+            "assemblyVersion": "0.9.7.0",
+            "fileVersion": "0.9.7.0"
+          }
+        }
+      },
+      "Microsoft.Maui.Dependencies/6.0.100-rc.1.1608": {
+        "dependencies": {
+          "Microsoft.Maui.Graphics": "6.0.100-rc.1.382",
+          "Reloadify3000": "1.0.7"
+        }
+      },
+      "Microsoft.Maui.Graphics/6.0.100-rc.1.382": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Maui.Graphics.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.100.1"
+          }
+        }
+      },
+      "Microsoft.WindowsAPICodePack.Core/1.1.0": {
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Microsoft.WindowsAPICodePack.Shell/1.1.0": {
+        "dependencies": {
+          "Microsoft.WindowsAPICodePack.Core": "1.1.0"
+        },
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "PresentationFramework/4.6.0": {},
+      "Reloadify3000/1.0.7": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Esp.Resources.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Esp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Reloadify3000.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Reloadify3000.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.3.0.60": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.3.0.60",
+            "fileVersion": "20.3.0.60"
+          }
+        }
+      },
+      "Syncfusion.Maui.Charts/20.3.60": {
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Maui.Core": "20.3.60"
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Maui.Charts.dll": {
+            "assemblyVersion": "20.3600.0.60",
+            "fileVersion": "20.3600.0.60"
+          }
+        }
+      },
+      "Syncfusion.Maui.Core/20.3.60": {
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.3.0.60"
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Maui.Core.dll": {
+            "assemblyVersion": "20.3600.0.60",
+            "fileVersion": "20.3600.0.60"
+          }
         }
       }
     }
@@ -18,6 +206,132 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Ccr.PresentationCore/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RBDCdGcIrQzkTJFHzMpZjfeBi9P+oAw2PsdNmdPmKAUNA0vjGUqUMytnRyf05dqJaYeKEP5sCEWcCh2e/sGfFQ==",
+      "path": "ccr.presentationcore/4.0.0",
+      "hashPath": "ccr.presentationcore.4.0.0.nupkg.sha512"
+    },
+    "Ccr.Std.Core/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aLutYuRv+sjSyqI7LaLXdjJkC2PUZM0C1JsuhJOQimB4YvF3xw4PjHLJKR1iK3ZmP73NkjhXWlIvtDbBuMWWVQ==",
+      "path": "ccr.std.core/2.2.0",
+      "hashPath": "ccr.std.core.2.2.0.nupkg.sha512"
+    },
+    "Ccr.Std.Introspective/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U6byO2JGpAzOIgEgd8BM6/3hfpW38NxOq54I3de2oz5p6E1it8MQ/xcHg540MBO5M9PYvTdYBjBjpq0phxVHzA==",
+      "path": "ccr.std.introspective/2.0.0",
+      "hashPath": "ccr.std.introspective.2.0.0.nupkg.sha512"
+    },
+    "Ccr.WinCore/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jfAkcikPBRIdA971hn+iAc/AhdEju7BSDo6bI6oHX9//nxA3JG82ewpeiNAd4V6++FOgwNY+8ZmEdbNObKz5Sg==",
+      "path": "ccr.wincore/4.0.0",
+      "hashPath": "ccr.wincore.4.0.0.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2019.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E0x48BwZJKoNMNCekWGKsV4saQS89lf58ydT2szseV44CMYIbaHXjc7+305WLw6up3ibZN9yH6QdGSZo5tQhLg==",
+      "path": "jetbrains.annotations/2019.1.3",
+      "hashPath": "jetbrains.annotations.2019.1.3.nupkg.sha512"
+    },
+    "LiveCharts/0.9.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p4xyBrUaNNfkWZSNsIle0r51cyVyFg0Yi0uBRZM5GQtdFiA/7guZHlffFyNUILIdux10Ch2hUaJpcZENVU9aaQ==",
+      "path": "livecharts/0.9.7",
+      "hashPath": "livecharts.0.9.7.nupkg.sha512"
+    },
+    "LiveCharts.WinForms/0.9.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eCBsVaxpUKHLpvlJEAhm+BQDWltnzc4VFhM4k4gJ+MsqyGQ/aq/AOWqTWx8OSJ0H52mDTJ1tQjErTYWeikLEOA==",
+      "path": "livecharts.winforms/0.9.7.1",
+      "hashPath": "livecharts.winforms.0.9.7.1.nupkg.sha512"
+    },
+    "LiveCharts.Wpf/0.9.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lv6YZoK0B4yWykMq5b9grZXtIbTj+OWu4sVN9GDpdgV6zffu64m4d5CW8KSjfSl9rB8VU649x1NZvhoU67hCDg==",
+      "path": "livecharts.wpf/0.9.7",
+      "hashPath": "livecharts.wpf.0.9.7.nupkg.sha512"
+    },
+    "Microsoft.Maui.Dependencies/6.0.100-rc.1.1608": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7yNLSSb24vIjOCxu7Vx1uI4GoCLE/obVsXHow8RrWrqJm5LkBhLwo0vgBXl1Q/f440a/V9pjgQtVqVGFJOAslg==",
+      "path": "microsoft.maui.dependencies/6.0.100-rc.1.1608",
+      "hashPath": "microsoft.maui.dependencies.6.0.100-rc.1.1608.nupkg.sha512"
+    },
+    "Microsoft.Maui.Graphics/6.0.100-rc.1.382": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dz30WvjNrKu5+nyoZbBQOim1SLMaUNjXea2QcmDv/gIZD48u7mRBD9OnkNGQ6ooIB4CKDWG9b6RlndvhB1kcVg==",
+      "path": "microsoft.maui.graphics/6.0.100-rc.1.382",
+      "hashPath": "microsoft.maui.graphics.6.0.100-rc.1.382.nupkg.sha512"
+    },
+    "Microsoft.WindowsAPICodePack.Core/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-szH5i6kUEuukCJN2vxPKRKvrTrtb759ScSWvlzN0lA9LNfZZQiauqqE5UrMZUdt5GzlJFSHfHkdcIe4qEC7Z1A==",
+      "path": "microsoft.windowsapicodepack.core/1.1.0",
+      "hashPath": "microsoft.windowsapicodepack.core.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.WindowsAPICodePack.Shell/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mf++Hez9kbikfIuwz4uCdQRwJDpd38rCD/F5CWU78tzyZtpEsUR6oWOX8ea59XvQ3hLitm2zZe3fXEgTD5Qyxg==",
+      "path": "microsoft.windowsapicodepack.shell/1.1.0",
+      "hashPath": "microsoft.windowsapicodepack.shell.1.1.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "PresentationFramework/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-37FpU6XcB1Hgr5X03MgUOxvzWLJYKJP72J3g5hnZHi/DXsTxpJEu4brCGW+TmplVWfntuysO/uRcZcPS9YK0Bw==",
+      "path": "presentationframework/4.6.0",
+      "hashPath": "presentationframework.4.6.0.nupkg.sha512"
+    },
+    "Reloadify3000/1.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+847doRse4hAkHfe3l4yPwUoXUbgZdA6SFQetZBE5OuysmafBsergDKn3u5UnTYWK6TD645rm22+nT3vBsgfQw==",
+      "path": "reloadify3000/1.0.7",
+      "hashPath": "reloadify3000.1.0.7.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/20.3.0.60": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CqgwRK4uKKx/2i9FRzM/N+sym1PqFBeWJglcXsREEQliLaesjsb/++ebSn81MVuoKWusTFNv5TlrqThnXXeUxA==",
+      "path": "syncfusion.licensing/20.3.0.60",
+      "hashPath": "syncfusion.licensing.20.3.0.60.nupkg.sha512"
+    },
+    "Syncfusion.Maui.Charts/20.3.60": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WzYGA9vACbOic6DbJmoJiVOduAmLuxZHOlJAvESua2K+ORke3JwIMduEn/SX3uGrB73ASRPQ7dsbUddoQrQVIw==",
+      "path": "syncfusion.maui.charts/20.3.60",
+      "hashPath": "syncfusion.maui.charts.20.3.60.nupkg.sha512"
+    },
+    "Syncfusion.Maui.Core/20.3.60": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B3uvVN3cBcKH+lZFlw1iTWKs+3UzZdsifers7zRy2AO2P+p7Aws0uYI87TTPMVqlFQwXGQ+SMM4/VdNS3pDfOw==",
+      "path": "syncfusion.maui.core/20.3.60",
+      "hashPath": "syncfusion.maui.core.20.3.60.nupkg.sha512"
     }
   }
 }

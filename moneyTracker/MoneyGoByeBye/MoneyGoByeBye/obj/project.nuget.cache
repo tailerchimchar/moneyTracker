@@ -1,8 +1,88 @@
 {
   "version": 2,
-  "dgSpecHash": "EuPq/c8qirM1tIgcWmcIDPCFps6YNl9X+IUu/xwIKHlLrPAXYkKagLv/Lg7Jeo3y9PNhBD1t8DGct4m1fzow2w==",
+  "dgSpecHash": "cl5qXxkMJY8QxKfl8y3MgBB9Poj3MpDSbQ/ZhEw5p/ln+ptaU/U4eKkXPcna20MmyZQdLWtoxoYXlR8G7bneoA==",
   "success": true,
   "projectFilePath": "D:\\source\\repos\\moneyTracker\\moneyTracker\\MoneyGoByeBye\\MoneyGoByeBye\\MoneyGoByeBye.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\taile\\.nuget\\packages\\ccr.presentationcore\\4.0.0\\ccr.presentationcore.4.0.0.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\ccr.std.core\\2.2.0\\ccr.std.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\ccr.std.introspective\\2.0.0\\ccr.std.introspective.2.0.0.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\ccr.wincore\\4.0.0\\ccr.wincore.4.0.0.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\livecharts.winforms\\0.9.7.1\\livecharts.winforms.0.9.7.1.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\microsoft.maui.dependencies\\6.0.100-rc.1.1608\\microsoft.maui.dependencies.6.0.100-rc.1.1608.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\microsoft.maui.graphics\\6.0.100-rc.1.382\\microsoft.maui.graphics.6.0.100-rc.1.382.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\microsoft.windowsapicodepack.core\\1.1.0\\microsoft.windowsapicodepack.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\microsoft.windowsapicodepack.shell\\1.1.0\\microsoft.windowsapicodepack.shell.1.1.0.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\presentationframework\\4.6.0\\presentationframework.4.6.0.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\reloadify3000\\1.0.7\\reloadify3000.1.0.7.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\syncfusion.licensing\\20.3.0.60\\syncfusion.licensing.20.3.0.60.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\syncfusion.maui.charts\\20.3.60\\syncfusion.maui.charts.20.3.60.nupkg.sha512",
+    "C:\\Users\\taile\\.nuget\\packages\\syncfusion.maui.core\\20.3.60\\syncfusion.maui.core.20.3.60.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts.WinForms 0.9.7.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts.Wpf 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.WindowsAPICodePack.Core 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.WindowsAPICodePack.Core",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.WindowsAPICodePack.Shell 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.WindowsAPICodePack.Shell",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PresentationFramework 4.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PresentationFramework",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }
